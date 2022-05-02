@@ -1,6 +1,6 @@
 # Recipe App
 
-![Website Image](/public/website-img.png)
+![Website Image](/public/wesite-img.png)
 
 ### `npm start`
 
