@@ -39,12 +39,10 @@ const Veggie = () => {
               640: {
                 perPage: 1,
               },
-              768:{
-                perPage: 2
+              768: {
+                perPage: 2,
               },
-            
-              
-            }
+            },
           }}
         >
           {veggie.map((recipe) => {
